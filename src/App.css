@@ -1,0 +1,9 @@
+.app {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url("https://i.ibb.co/CKpcry2/Rectangle-1.png");
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: cover;
+    background-blend-mode: darken;
+}

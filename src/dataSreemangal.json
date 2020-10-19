@@ -1,0 +1,38 @@
+[
+    {
+        "id": 4,
+        "name": "Hotel Skypark",
+        "location": "sreemangal",
+        "phone": "546-629-5795",
+        "room_details": "4 guests   2 bedrooms   2 beds   2 baths",
+        "facilities": "3-Star Hotel",
+        "price": 26.75,
+        "rating": 4.6,
+        "image": "https://i.ibb.co/NrffqgQ/Rectangle-27.png",
+        "description": "Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal."
+    },
+    {
+        "id": 5,
+        "name": "Grand Selim Resort & Tour",
+        "location": "sreemangal",
+        "phone": "506-134-6849",
+        "room_details": "4 guests   2 bedrooms   2 beds   2 baths",
+        "facilities": "3-Star Hotel",
+        "price": 18.05,
+        "rating": 3.6,
+        "image": "https://i.ibb.co/3BtQFcx/Rectangle-26.png",
+        "description": "Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal."
+    },
+    {
+        "id": 6,
+        "name": "Balishira Resort",
+        "location": "sreemangal",
+        "phone": "532-381-9320",
+        "room_details": "4 guests   2 bedrooms   2 beds   2 baths",
+        "facilities": "Free Braekfast",
+        "price": 16.28,
+        "rating": 4.8,
+        "image": "https://i.ibb.co/rG1FTfy/Rectangle-28.png",
+        "description": "Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal."
+    }
+]

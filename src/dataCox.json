@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Diamond Palace",
+        "location": "cox’sbazar",
+        "phone": "363-344-5789",
+        "room_details": "4 guests   2 bedrooms   2 beds   2 baths",
+        "facilities": "Free Braekfast",
+        "price": 22.2,
+        "rating": 4.7,
+        "image": "https://i.ibb.co/NrffqgQ/Rectangle-27.png",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+    },
+    {
+        "id": 2,
+        "name": "Neeshorgo Hotel & Resort Ltd.",
+        "location": "cox’sbazar",
+        "phone": "726-133-8218",
+        "room_details": "4 guests   2 bedrooms   2 beds   2 baths",
+        "facilities": "Free WiFi",
+        "price": 27.47,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/3BtQFcx/Rectangle-26.png",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+    },
+    {
+        "id": 3,
+        "name": "Prime Park Hotel",
+        "location": "Cox’s Bazar",
+        "phone": "244-928-2053",
+        "room_details": "4 guests   2 bedrooms   2 beds   2 baths",
+        "facilities": "Free WiFi",
+        "price": 29.71,
+        "rating": 4.5,
+        "image": "https://i.ibb.co/rG1FTfy/Rectangle-28.png",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+    }
+]

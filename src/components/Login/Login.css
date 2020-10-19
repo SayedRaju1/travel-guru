@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  /* border: 1px solid gray; */
+}
+
+.login-form {
+  width: 30em;
+  height: 24em;
+  padding: 3em;
+  border-radius: 5px;
+}
+
+.fb-google-loginBtn {
+  margin: 10px;
+  height: 45px;
+  width: 400px;
+  border-radius: 25px;
+}
+
+.fb-loginBtn {
+  background-color: #3076ff;
+  color: white;
+  border: 1px solid #3076ff;
+}
+
+.fb-loginBtn:hover {
+  background-color: white;
+  border: 1px solid #3076ff;
+  color: #3076ff;
+}
+
+.google-loginBtn {
+  background-color: #ea4335;
+  color: white;
+  border: 1px solid #ea4335;
+}
+
+.google-loginBtn:hover {
+  background-color: white;
+  color: #ea4335;
+  border: 1px solid #ea4335;
+}
+
+.createAccountBtn {
+  color: #ffc107;
+  cursor: pointer;
+}
+
+.createAccountBtn:hover {
+  text-decoration: underline;
+}

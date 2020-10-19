@@ -1,0 +1,21 @@
+.form-booking {
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.div-booking {
+    margin-top: 2em;
+}
+
+.place-info {
+    padding-right: 5em;
+}
+
+.location-name {
+    font-size: 3.5rem;
+    line-height: 2;
+}
+
+.location-details {
+    font-size: 1.1rem;
+}
