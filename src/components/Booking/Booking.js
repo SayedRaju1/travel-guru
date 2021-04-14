@@ -10,7 +10,7 @@ const Booking = () => {
     const { code } = useParams();
     const place = dataLocation.find(place => place.code === code);
     const history = useHistory()
-    // console.log(place);
+    console.log(code);
     const handleStartBooking = () => {
         history.push("/hotels/" + code)
     }
